@@ -11,8 +11,8 @@ This repository contains the practical code developed during my internship at Id
 
 The code is organized in the following folders 
 
-`assignments`: Contains the assignments given to me on High Order Functions
-`week3 tasks`: Contains week 03 tasks given to me by my Facilatator `Joseph Narko`
+1. `assignments`: Contains the assignments given to me on High Order Functions
+2. `week3 tasks`: Contains week 03 tasks given to me by my Facilatator `Joseph Narko`
 
 ### Dependencies
 
