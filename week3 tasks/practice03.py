@@ -20,3 +20,18 @@ The resulting list of products should be: [10, 20, 30, 40, 50, 100, 120, 140, 16
 
 Let me know once you've attempted it or if you need any assistance!
 """
+
+
+# Define the lambda function
+mutiply = lambda x,y: x*y 
+
+# Use this lambda function in a map() function to pair and multiply elements from two lists.
+numbers = [1, 2, 3]
+letters = ['a', 'b', 'c']
+mul = list(map(mutiply, numbers, letters))
+print(mul)
+
+list1 = [1, 2, 3, 4, 5]
+list2 = [10, 20, 30, 40, 50]
+mul1 = list(map(mutiply, list1, list2))
+print(mul1)
