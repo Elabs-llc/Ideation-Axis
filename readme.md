@@ -4,8 +4,8 @@ This repository contains the practical code developed during my internship at Id
 
 ## About the Internship
 
-**Dates:** 01/09/2024 -  "Ongoing" 
-**Supervisor:** Philip Gyimah Appiah Joseph Osei Yaw Nyarko Esegbe Able Katapu 
+- **Dates:** 01/09/2024 -  "Ongoing" 
+- **Supervisor:** Philip Gyimah Appiah Joseph Osei Yaw Nyarko Esegbe Able Katapu 
 
 ## Code Structure
 
