@@ -23,8 +23,8 @@ This project requires no dependencies to run. This file will be updated if there
 Instructions on how to run the codes:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   
+   git clone https://github.com/Elabs-llc/Ideation-Axis.git
+
 2. **Python script:**
   ```bash
   python nameoffile.py
